@@ -1,0 +1,4 @@
+{
+	"jest.rootPath": "${workspaceFolder}/subfolder",
+  "jest.jestCommandLine": "npm t --"
+}
